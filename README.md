@@ -40,7 +40,7 @@ No Electron. No telemetry. Just Qt.
 ## 🔧 Build Instructions (CMake Only)
 
 ```bash
-git clone <your-repo-url>
+git clone https://www.github.com/swastikchatt-gh/stunning-goggles.git
 cd MyGedit
 
 mkdir build
